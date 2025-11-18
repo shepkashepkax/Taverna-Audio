@@ -124,10 +124,10 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Ambients.bank
   Name: Ambients
   StudioPath: bank:/Ambients
-  lastModified: 638990862491212216
+  lastModified: 638990911100968800
   FileSizes:
   - Name: Desktop
-    Value: 6824736
+    Value: 6824160
   Exists: 1
 --- !u!114 &-2139036701053255357
 MonoBehaviour:
@@ -207,7 +207,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3671192574729083387}
   cacheVersion: 131856
-  cacheTime: 638990862492154982
+  cacheTime: 638990911100968800
   SerializableEventsDict:
   - key: event:/Ambienty/Ambient_tavern
     index: 0
@@ -320,7 +320,7 @@ MonoBehaviour:
   Banks:
   - {fileID: -2247752550489011863}
   IsStream: 1
-  Is3D: 1
+  Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 1
