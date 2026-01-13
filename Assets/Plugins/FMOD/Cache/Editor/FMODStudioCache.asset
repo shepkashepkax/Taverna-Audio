@@ -124,7 +124,7 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Ambients.bank
   Name: Ambients
   StudioPath: bank:/Ambients
-  lastModified: 638990911100968800
+  lastModified: 639039202640107191
   FileSizes:
   - Name: Desktop
     Value: 6824160
@@ -170,7 +170,7 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638990862491257780
+  lastModified: 639039202640107191
   FileSizes:
   - Name: Desktop
     Value: 2108
@@ -207,7 +207,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3671192574729083387}
   cacheVersion: 131856
-  cacheTime: 638996964908936945
+  cacheTime: 639039202640234056
   SerializableEventsDict:
   - key: event:/Ambienty/Ambient_tavern
     index: 0
@@ -294,7 +294,7 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638990862491277776
+  lastModified: 639039202640234056
   FileSizes:
   - Name: Desktop
     Value: 1598
@@ -341,7 +341,7 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 638996964908936945
+  lastModified: 639039202640234056
   FileSizes:
   - Name: Desktop
     Value: 104960
