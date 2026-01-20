@@ -253,18 +253,18 @@ MonoBehaviour:
   isRotating: 0
   doorsEvent:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -783989747
+      Data2: 1210116588
+      Data3: 1433786002
+      Data4: -1002788167
+    Path: event:/SFX/Doors
   insideRoomSnap:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 503153123
+      Data2: 1238574636
+      Data3: -287143515
+      Data4: 956294377
+    Path: snapshot:/Inside_Room
 --- !u!1 &129069795
 GameObject:
   m_ObjectHideFlags: 0
@@ -793,18 +793,18 @@ MonoBehaviour:
   isRotating: 0
   doorsEvent:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -783989747
+      Data2: 1210116588
+      Data3: 1433786002
+      Data4: -1002788167
+    Path: event:/SFX/Doors
   insideRoomSnap:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 503153123
+      Data2: 1238574636
+      Data3: -287143515
+      Data4: 956294377
+    Path: snapshot:/Inside_Room
 --- !u!1 &185862705
 GameObject:
   m_ObjectHideFlags: 0
@@ -1174,11 +1174,11 @@ MonoBehaviour:
     Path: event:/SFX/Doors
   insideRoomSnap:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 503153123
+      Data2: 1238574636
+      Data3: -287143515
+      Data4: 956294377
+    Path: snapshot:/Inside_Room
 --- !u!1 &297431489
 GameObject:
   m_ObjectHideFlags: 0
@@ -4411,11 +4411,11 @@ MonoBehaviour:
     Path: event:/SFX/Doors
   insideRoomSnap:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 503153123
+      Data2: 1238574636
+      Data3: -287143515
+      Data4: 956294377
+    Path: snapshot:/Inside_Room
 --- !u!1 &1473028129
 GameObject:
   m_ObjectHideFlags: 0
@@ -7015,7 +7015,7 @@ GameObject:
   - component: {fileID: 2015243835}
   m_Layer: 7
   m_Name: Stone_1
-  m_TagString: Stone
+  m_TagString: Outside
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
