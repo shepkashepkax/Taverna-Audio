@@ -32,7 +32,7 @@
 			<destination>{8c34aa55-6764-4d4d-9393-2501d14c4873}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{cc9f7a8f-4371-403a-ba3c-bcdd233c6a6c}</destination>
+			<destination>{e996f404-9ef7-48a6-ae71-902056be2607}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{af174312-42a2-4082-bda2-44edccdbec5d}">
@@ -108,7 +108,7 @@
 			<value>5</value>
 		</property>
 		<property name="volume">
-			<value>7</value>
+			<value>10</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{706c42ae-26a6-44af-8684-8c29e017d40f}</destination>
