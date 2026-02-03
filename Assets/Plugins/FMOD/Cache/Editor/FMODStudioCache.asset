@@ -175,10 +175,10 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639057371758189320
+  lastModified: 639057382491231801
   FileSizes:
   - Name: Desktop
-    Value: 6932928
+    Value: 6933152
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -214,7 +214,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3671192574729083387}
   cacheVersion: 131856
-  cacheTime: 639057371758209322
+  cacheTime: 639057382491251905
   SerializableEventsDict:
   - key: event:/Ambienty/Ambient_tavern
     index: 0
@@ -310,10 +310,10 @@ MonoBehaviour:
   Path: Assets/Fmod/Pomocy/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639057371758209322
+  lastModified: 639057382491251905
   FileSizes:
   - Name: Desktop
-    Value: 1872
+    Value: 1958
   Exists: 1
 --- !u!114 &4168998896301225179
 MonoBehaviour:

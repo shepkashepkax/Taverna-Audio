@@ -81,6 +81,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{343d4bce-6192-4b98-b00d-7ec0917f4ba8}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{32bbd34a-7174-45ed-8296-21f54bd0c0b3}</destination>
 		</relationship>
@@ -227,7 +230,7 @@
 			<value>21999.9902</value>
 		</property>
 		<property name="qualityA">
-			<value>0.612698376</value>
+			<value>0.885344803</value>
 		</property>
 	</object>
 	<object class="SpectrumAnalyzer" id="{75735e77-44b2-4915-8498-932f0311a1c2}" />

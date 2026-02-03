@@ -2,8 +2,11 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerGroup" id="{298c32d6-7110-4420-af61-4c643f974ac7}">
 		<property name="name">
-			<value>inside</value>
+			<value>Inside</value>
 		</property>
+		<relationship name="masters">
+			<destination>{ab5f6802-6b4c-4f17-9102-652050923c32}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{d8f8dc4c-c4fe-4176-8780-0e0e7d94d5ed}</destination>
 		</relationship>
